@@ -1,5 +1,6 @@
 {
     "version": "1.4.4",
+    "license": "Freeware",
     "description": "Frija is a new tool (successor of now depreciated tool SamFirm) which allows users to download latest firmware for their device which can be flashed with Odin.",
     "homepage": "https://github.com/SlackingVeteran/frija",
     "url": "https://github.com/SlackingVeteran/frija/releases/download/v1.4.4/Frija-v1.4.4.zip",

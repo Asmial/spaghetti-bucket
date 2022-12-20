@@ -1,5 +1,6 @@
 {
     "version": "3238026327",
+    "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://nightly.link/jpochyla/psst/workflows/build/master/Psst.exe.zip",

@@ -1,5 +1,6 @@
 {
     "version": ".2.3.0.0",
+    "license": "GPL-3.0-only",
     "description": "This program fixes the missing \"Drag & Drop to the Taskbar\" support in Windows 11.",
     "homepage": "https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix",
     "url": "https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix/releases/download/v.2.3.0.0-release/Windows11DragAndDropToTaskbarFix.exe",

@@ -1,5 +1,6 @@
 {
     "version": "3.0.0",
+    "license": "Freeware",
     "url": "https://johann.loefflmann.net/downloads/jarfix.exe",
     "hash": "3a00c5b808954e9dca76418506eacec9cb1cb0fd844318a896ebae787f5eaae2",
     "bin": "jarfix.exe",

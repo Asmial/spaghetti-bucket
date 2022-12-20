@@ -1,5 +1,6 @@
 {
     "version": "1.7.30",
+    "license": "Apache-2.0",
     "description": "RetroBar teleports you back in time by replacing your modern Windows taskbar with the classic Windows 95, 98, Me, 2000, or XP style.",
     "homepage": "https://github.com/dremin/RetroBar",
     "url": "https://github.com/dremin/RetroBar/releases/download/v1.7.30/RetroBar.zip",
