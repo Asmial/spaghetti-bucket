@@ -12,7 +12,7 @@
     "architecture": {
         "64bit": {
             "url": "https://www.betterbird.eu/downloads/WindowsPortable/BetterbirdPortable-102.9.1-bb32.en-US.win64.zip#/dl.7z",
-            "hash": "2a5e2a60aa6e42a81f4992b926e154a240efd67efeea11f29698572ceb8f4f02"
+            "hash": "01c0616c441f8f7cea0717f25a129158ec00d15bc671fe4d2f9adf8a9fb8c2b4"
         }
     },
     "extract_dir": "core",
