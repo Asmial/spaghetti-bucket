@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6a",
+    "version": "1.0.6",
     "description": "PrimeHack is a modified version of Dolphin-Emu solely for playing Metroid Prime Trilogy for Wii with keyboard and mouse on a PC.",
     "homepage": "https://github.com/shiiion/dolphin",
     "license": {
@@ -9,8 +9,8 @@
     "suggest": {
         "Microsoft Visual C++ Runtime 2022": "extras/vcredist2022"
     },
-    "url": "https://github.com/shiiion/dolphin/releases/download/1.0.6a/PrimeHackRelease.zip",
-    "hash": "5f5d490dbfc013698c73e675de9f0c7124357d81bb5acb50d070cb14fa5f6fee",
+    "url": "https://github.com/shiiion/dolphin/releases/download/1.0.6/PrimeHackRelease.zip",
+    "hash": "30c34f3d82fff5e2326ebceee8937cd42b7e80957b8c1ee15a968b228728ee21",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\")) {",
         "   New-item \"$persist_dir\" -ItemType Directory | Out-Null",
