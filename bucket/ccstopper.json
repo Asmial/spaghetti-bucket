@@ -6,7 +6,7 @@
     "url": "https://github.com/eaaasun/CCStopper/releases/download/v1.2.2/CCStopper.zip",
     "bin": "CCStopper.bat",
     "hash": "5a36a0928d4d31a3adaa65864e600d4f96dff9189d17bb89febec6e23f664cb7",
-    "extract_dir": "CCStopper",
+    "extract_dir": "CCStopper_v1.2.2",
     "shortcuts": [
         [
             "CCStopper.bat",
