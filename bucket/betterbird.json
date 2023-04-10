@@ -1,5 +1,5 @@
 {
-    "version": "102.9.1-bb32",
+    "version": "102.10.0-bb33",
     "description": "Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.",
     "homepage": "https://www.betterbird.eu",
     "license": "MPL-2.0",
@@ -11,8 +11,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://www.betterbird.eu/downloads/WindowsPortable/BetterbirdPortable-102.9.1-bb32.en-US.win64.zip#/dl.7z",
-            "hash": "01c0616c441f8f7cea0717f25a129158ec00d15bc671fe4d2f9adf8a9fb8c2b4"
+            "url": "https://www.betterbird.eu/downloads/WindowsPortable/BetterbirdPortable-102.10.0-bb33.en-US.win64.zip#/dl.7z",
+            "hash": "4acf6e23c427662f24015c463304fa0d3e784dca3f504e01f5aff05bdee014af"
         }
     },
     "extract_dir": "core",
