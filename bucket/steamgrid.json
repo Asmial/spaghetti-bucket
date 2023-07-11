@@ -1,11 +1,11 @@
 {
-    "version": "3.4.0",
+    "version": "3.3.0",
     "description": "SteamGrid is a standalone, fire-and-forget program to enhance Steam's grid view and Big Picture. It preloads the banner images for all your games (even non-Steam ones) and applies overlays depending on your categories.",
     "homepage": "https://github.com/boppreh/steamgrid",
     "license": "MIT",
-    "url": "https://github.com/boppreh/steamgrid/releases/download/v3.4.0/steamgrid_windows.zip",
+    "url": "https://github.com/boppreh/steamgrid/releases/download/v3.3.0/steamgrid_windows.zip",
     "bin": "steamgrid.exe",
-    "hash": "044a9b2592913d52771573143b5cdd36e14f4d302bec99f53177e58e2febfc1c",
+    "hash": "f927e16a82425f5236b49cd990412e6500ba7af68692cfe4d86dc11bd130016c",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/boppreh/steamgrid/releases/download/v$version/steamgrid_windows.zip"
