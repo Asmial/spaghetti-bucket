@@ -1,10 +1,10 @@
 {
-    "version": "2.34",
+    "version": "2.36",
     "description": "Allows to download encrypted wiiu files from nintendo's official servers ",
     "homepage": "https://github.com/Xpl0itU/WiiUDownloader",
     "license": "GPL-3.0",
-    "url": "https://github.com/Xpl0itU/WiiUDownloader/releases/download/v2.34/WiiUDownloader-Windows.zip",
-    "hash": "384b54f60117e7d3407f776699f4cd7dba93f71edb20a0d0785371b2fc27dbf9",
+    "url": "https://github.com/Xpl0itU/WiiUDownloader/releases/download/v2.36/WiiUDownloader-Windows.zip",
+    "hash": "2366a4a5ad9a98afb4c56ac35b44c62a0244f9ce14b3c78c05bcd48ccfb27be6",
     "bin": "WiiUDownloader.exe",
     "shortcuts": [
         [
