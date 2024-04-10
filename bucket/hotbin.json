@@ -2,6 +2,7 @@
     "version": "2.7.1.5",
     "description": "Easily access the Recycle Bin from the System Tray. ",
     "homepage": "https://github.com/warg0x4e/HotBin",
+    "license": "Freeware",
     "architecture": {
         "64bit": {
             "url": "https://github.com/warg0x4e/HotBin/releases/download/2.7.1.5/HotBin-2.7.1.5-x64.exe",
