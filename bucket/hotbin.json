@@ -1,0 +1,74 @@
+{
+    "version": "2.7.1.5",
+    "description": "Easily access the Recycle Bin from the System Tray. ",
+    "homepage": "https://github.com/warg0x4e/HotBin",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/warg0x4e/HotBin/releases/download/2.7.1.5/HotBin-2.7.1.5-x64.exe",
+            "shortcuts": [
+                [
+                    "HotBin-2.7.1.5-x64.exe",
+                    "HotBin"
+                ]
+            ],
+            "bin": [
+                [
+                    "HotBin-2.7.1.5-x64.exe",
+                    "HotBin"
+                ]
+            ],
+            "hash": "9ef7580012006f5634279a6eaab4d1f490bb691e940a5bdef2e503908c100436"
+        },
+        "32bit": {
+            "url": "https://github.com/warg0x4e/HotBin/releases/download/2.7.1.5/HotBin-2.7.1.5-x86.exe",
+            "shortcuts": [
+                [
+                    "HotBin-2.7.1.5-x86.exe",
+                    "HotBin"
+                ]
+            ],
+            "bin": [
+                [
+                    "HotBin-2.7.1.5-x86.exe",
+                    "HotBin"
+                ]
+            ],
+            "hash": "bcda63dcfff2aa20e50376a5d484731d1b011defac01c9d74c2c5c6aee2062c1"
+        }
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/warg0x4e/HotBin/releases/download/$version/HotBin-$version-x64.exe",
+                "shortcuts": [
+                    [
+                        "HotBin-$version-x64.exe",
+                        "HotBin"
+                    ]
+                ],
+                "bin": [
+                    [
+                        "HotBin-$version-x64.exe",
+                        "HotBin"
+                    ]
+                ]
+            },
+            "32bit": {
+                "url": "https://github.com/warg0x4e/HotBin/releases/download/$version/HotBin-$version-x86.exe",
+                "shortcuts": [
+                    [
+                        "HotBin-$version-x86.exe",
+                        "HotBin"
+                    ]
+                ],
+                "bin": [
+                    [
+                        "HotBin-$version-x86.exe",
+                        "HotBin"
+                    ]
+                ]
+            }
+        }
+    }
+}
