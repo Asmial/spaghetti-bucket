@@ -1,0 +1,17 @@
+{
+    "version": "1.0",
+    "url": "https://example.com",
+    "depends": "main/7zip",
+    "installer": {
+        "script": [
+            "$7zip_root = Get-Item \"$scoopdir\\apps\\7zip\\current\"",
+            "reg import \"$7zip_root\\install-context.reg\""
+        ]
+    },
+    "uninstaller": {
+        "script": [
+            "$7zip_root = Get-Item \"$scoopdir\\apps\\7zip\\current\"",
+            "reg import \"$7zip_root\\uninstall-context.reg\""
+        ]
+    }
+}

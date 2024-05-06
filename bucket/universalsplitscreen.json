@@ -16,6 +16,6 @@
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/UniversalSplitScreen/UniversalSplitScreen/releases/download/v$version/UniversalSplitScreen$version.zip",
-        "extract_dir":"Universal Split Screen $version"
+        "extract_dir": "Universal Split Screen $version"
     }
 }
