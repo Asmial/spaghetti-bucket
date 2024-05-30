@@ -1,40 +1,40 @@
 {
-    "version": "2.7.1.6",
+    "version": "2.7.15.0",
     "description": "Easily access the Recycle Bin from the System Tray. ",
     "homepage": "https://github.com/warg0x4e/HotBin",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/warg0x4e/HotBin/releases/download/2.7.1.6/HotBin-2.7.1.6-x64.exe",
+            "url": "https://github.com/warg0x4e/HotBin/releases/download/2.7.15.0/HotBin-2.7.15.0-x64.exe",
             "shortcuts": [
                 [
-                    "HotBin-2.7.1.6-x64.exe",
+                    "HotBin-2.7.15.0-x64.exe",
                     "HotBin"
                 ]
             ],
             "bin": [
                 [
-                    "HotBin-2.7.1.6-x64.exe",
+                    "HotBin-2.7.15.0-x64.exe",
                     "HotBin"
                 ]
             ],
-            "hash": "9ef7580012006f5634279a6eaab4d1f490bb691e940a5bdef2e503908c100436"
+            "hash": "74964558f94c19f40b36c1371eca7eb74d228c5a334bbb4d2cc5f63fc4a6ece6"
         },
         "32bit": {
-            "url": "https://github.com/warg0x4e/HotBin/releases/download/2.7.1.6/HotBin-2.7.1.6-x86.exe",
+            "url": "https://github.com/warg0x4e/HotBin/releases/download/2.7.15.0/HotBin-2.7.15.0-x86.exe",
             "shortcuts": [
                 [
-                    "HotBin-2.7.1.6-x86.exe",
+                    "HotBin-2.7.15.0-x86.exe",
                     "HotBin"
                 ]
             ],
             "bin": [
                 [
-                    "HotBin-2.7.1.6-x86.exe",
+                    "HotBin-2.7.15.0-x86.exe",
                     "HotBin"
                 ]
             ],
-            "hash": "bcda63dcfff2aa20e50376a5d484731d1b011defac01c9d74c2c5c6aee2062c1"
+            "hash": "5d1a7095f61f9317af4f8fb1b356bf110b704a2de89791adcef6eabff9ca25f7"
         }
     },
     "checkver": "github",
