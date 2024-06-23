@@ -1,40 +1,40 @@
 {
-    "version": "2.9.3.0",
+    "version": "2.10.0.0",
     "description": "Easily access the Recycle Bin from the System Tray. ",
     "homepage": "https://github.com/warg0x4e/HotBin",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/warg0x4e/HotBin/releases/download/2.9.3.0/HotBin-2.9.3.0-x64.exe",
+            "url": "https://github.com/warg0x4e/HotBin/releases/download/2.10.0.0/HotBin-2.10.0.0-x64.exe",
             "shortcuts": [
                 [
-                    "HotBin-2.9.3.0-x64.exe",
+                    "HotBin-2.10.0.0-x64.exe",
                     "HotBin"
                 ]
             ],
             "bin": [
                 [
-                    "HotBin-2.9.3.0-x64.exe",
+                    "HotBin-2.10.0.0-x64.exe",
                     "HotBin"
                 ]
             ],
-            "hash": "04cfc8c1e2ff2113b19302f5c73480f134d6589e318e34feb4abc5a5078e5435"
+            "hash": "51decb7f7a645c7a0f30fcb8e057a6d86c44fb10d8e9cae833c3139fb3a22785"
         },
         "32bit": {
-            "url": "https://github.com/warg0x4e/HotBin/releases/download/2.9.3.0/HotBin-2.9.3.0-x86.exe",
+            "url": "https://github.com/warg0x4e/HotBin/releases/download/2.10.0.0/HotBin-2.10.0.0-x86.exe",
             "shortcuts": [
                 [
-                    "HotBin-2.9.3.0-x86.exe",
+                    "HotBin-2.10.0.0-x86.exe",
                     "HotBin"
                 ]
             ],
             "bin": [
                 [
-                    "HotBin-2.9.3.0-x86.exe",
+                    "HotBin-2.10.0.0-x86.exe",
                     "HotBin"
                 ]
             ],
-            "hash": "6f995593a8cf00ec46c15177a4330b4aa940cfa8b9fc69e2e8d90a799c40f060"
+            "hash": "0f1a5bfba1a49c24c6e11f20ea84591f4ccc7fdf83847626ea2454fd0c1b4192"
         }
     },
     "checkver": "github",
