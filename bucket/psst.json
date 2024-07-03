@@ -1,10 +1,10 @@
 {
-    "version": "9751532385",
+    "version": "9782425933",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://nightly.link/jpochyla/psst/workflows/build/master/Psst.exe.zip",
-            "hash": "941c4bb03f00a8df83da871f1a103b8cb5f675f3966e9e6c5a8404159871a74c"
+            "hash": "693f082901131ec0ddeb8a6b1a544badde53cea060cda709ff2f576dc016f4e0"
         }
     },
     "homepage": "https://github.com/jpochyla/psst",
